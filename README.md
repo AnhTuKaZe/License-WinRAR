@@ -39,4 +39,4 @@ step (3) Go to C:\ProgramFiles\WinRAR\
 
 step (4) Paste the file rarreg.key into the WinRAR . folder
 
-step (5) You are good to go! Now you have WinRAR unlimited corporate license with no charge from WinRAR company !
+step (5) Now you have WinRAR unlimited corporate license with no charge from WinRAR company !
