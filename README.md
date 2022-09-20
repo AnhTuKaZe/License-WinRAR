@@ -13,6 +13,7 @@ WinRAR licenses are valid for all available language and platform versions. If y
 
 --------------------------------------------------------------------------------------------------
 
+# File Code
 RAR registration data
 WinRAR
 Unlimited Company License
@@ -26,6 +27,7 @@ b41bcf56929486b8bcdac33d50ecf773996052598f1f556defffbd
 aef69d48c864bcd72d15163897773d314187f6a9af350808719796
 
 -------------------------------------------------------------------------------------------------
+# Instructions On How To Use
 
 This is the file that will give you unlimited corporate license of WinRAR software, 100% FREE !
 
