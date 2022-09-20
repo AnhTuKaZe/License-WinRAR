@@ -10,7 +10,9 @@ WinRAR allows you to split archives into separate volumes easily, making it poss
 WinRAR is also ideal, if you are sending data through the web. Its 256 bit password encryption and its authenticated signature technology will give you the peace of mind you have been looking for.
 WinRAR is a trial product, meaning you have the chance to thoroughly test it. The program can be used absolutely free of charge for 40 days!
 WinRAR licenses are valid for all available language and platform versions. If you have purchased several licenses, you can even mix versions to meet your own personal needs.
+
 --------------------------------------------------------------------------------------------------
+
 RAR registration data
 WinRAR
 Unlimited Company License
@@ -22,3 +24,17 @@ b41bcf56929486b8bcdac33d50ecf773996052598f1f556defffbd
 982fbe71e93df6b6346c37a3890f3c7edc65d7f5455470d13d1190
 6e6fb824bcf25f155547b5fc41901ad58c0992f570be1cf5608ba9
 aef69d48c864bcd72d15163897773d314187f6a9af350808719796
+
+-------------------------------------------------------------------------------------------------
+
+This is a file that will give you an unlimited company license of WinRAR, for 100% FREE!
+
+step  ( 1 ) Download the archive
+
+step  ( 2 ) Extract the archive
+
+step  ( 3 ) Go to C:\ProgramFiles\WinRAR\
+
+step  ( 4 ) Paste the rarreg.key file in the WinRAR directory
+
+step  ( 5 ) You are good to go! Now you have an unlimited company license of WinRAR, without spending a single penny!
