@@ -27,14 +27,14 @@ aef69d48c864bcd72d15163897773d314187f6a9af350808719796
 
 -------------------------------------------------------------------------------------------------
 
-This is a file that will give you an unlimited company license of WinRAR, for 100% FREE!
+This is the file that will give you unlimited corporate license of WinRAR software, 100% FREE !
 
-step  ( 1 ) Download the archive
+step (1) Download the archive
 
-step  ( 2 ) Extract the archive
+step (2) Extract the archive
 
-step  ( 3 ) Go to C:\ProgramFiles\WinRAR\
+step (3) Go to C:\ProgramFiles\WinRAR\
 
-step  ( 4 ) Paste the rarreg.key file in the WinRAR directory
+step (4) Paste the file rarreg.key into the WinRAR . folder
 
-step  ( 5 ) You are good to go! Now you have an unlimited company license of WinRAR, without spending a single penny!
+step (5) You are good to go! Now you have WinRAR unlimited corporate license with no charge from WinRAR company !
