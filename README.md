@@ -10,7 +10,7 @@ WinRAR allows you to split archives into separate volumes easily, making it poss
 WinRAR is also ideal, if you are sending data through the web. Its 256 bit password encryption and its authenticated signature technology will give you the peace of mind you have been looking for.
 WinRAR is a trial product, meaning you have the chance to thoroughly test it. The program can be used absolutely free of charge for 40 days!
 WinRAR licenses are valid for all available language and platform versions. If you have purchased several licenses, you can even mix versions to meet your own personal needs.
-**
+--------------------------------------------------------------------------------------------------
 RAR registration data
 WinRAR
 Unlimited Company License
