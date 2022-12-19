@@ -11,7 +11,7 @@ WinRAR is also ideal, if you are sending data through the web. Its 256 bit passw
 WinRAR is a trial product, meaning you have the chance to thoroughly test it. The program can be used absolutely free of charge for 40 days!
 WinRAR licenses are valid for all available language and platform versions. If you have purchased several licenses, you can even mix versions to meet your own personal needs.
 
--------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Instructions On How To Use
 
 This is the file that will give you unlimited corporate license of WinRAR software, 100% FREE !
@@ -25,6 +25,8 @@ step (3) Go to C:\ProgramFiles\WinRAR\
 step (4) Paste the file rarreg.key into the WinRAR . folder
 
 step (5) Now you have WinRAR unlimited corporate license with no charge from WinRAR company !
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Contact - Gmail : Nguyenngocanhtuwork@gmail.com
         - Phone : +84332413262
