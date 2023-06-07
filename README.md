@@ -1,5 +1,6 @@
-# WinRAR
-Compress, Encrypt, Package and Backup with only one utility
+# WinRAR 
+
+WinRAR at a glance
 WinRAR Features
 WinRAR is a powerful compression tool with many integrated additional functions to help you organize your compressed archives.
 WinRAR puts you ahead of the crowd when it comes to compression. By consistently creating smaller archives, WinRAR is often faster than the competition. This will save you disk space, transmission costs AND valuable working time as well.
@@ -13,17 +14,21 @@ WinRAR licenses are valid for all available language and platform versions. If y
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Instructions On How To Use
 
-This is the file that will give you unlimited corporate license of WinRAR software, 100% FREE !
+This is the file that will give you unlimited corporate license of WinRAR software, and it's 100% free!
 
-step (1) Download the archive
+step [ 1 ] -> Download the archive
 
-step (2) Extract the archive
+step [ 2 ] -> Extract the archive
 
-step (3) Go to C:\ProgramFiles\WinRAR\
+step [ 3 ] -> Go to C:\ProgramFiles\WinRAR\
 
-step (4) Paste the file rarreg.key into the WinRAR . folder
+step [ 4 ] -> Paste the file rarreg.key into the WinRAR . folder
 
-step (5) Now you have WinRAR unlimited corporate license with no charge from WinRAR company !
+step [ 5 ] -> Now you have WinRAR unlimited corporate license at no cost from WinRAR company, this is for learning or work!
+
+
+
+[ !!! ] -->  Please support the developer by buying the copyright from their official website ( win-rar.com )
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
